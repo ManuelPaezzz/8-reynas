@@ -1,3 +1,8 @@
+#Jesus Manuel Páez Ramírez 
+#Jesús Alejandro quintero castro
+#Topicos de IA
+#10:00-11:00
+
 import random
 import time
 
